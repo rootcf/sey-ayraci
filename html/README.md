@@ -8,12 +8,12 @@ Bu proje rootcf tarafından, Ali İlteriş Keskin([ilteriskeskin](https://github
 Şey zamirini ayırmaya yaramaktadır.
 
 ### Kullanım
-```
+```js
 split(param);
 ```
 
 ### Örnek Kullanım
-```
+```js
 let ornek = "Herşey güzel olacak.";
 console.log(split(ornek));
 ```
